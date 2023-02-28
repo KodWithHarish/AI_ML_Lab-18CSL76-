@@ -7,7 +7,7 @@
     <title>Document</title>
   </head>
   <body style="text-align: center">
-    <h1>LABORATORY</h1>
+    <h1>AI ML LABORATORY</h1>
 
     <h2>(Effective from the academic year 2018 -2019)</h2>
 
